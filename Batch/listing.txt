@@ -1,0 +1,8 @@
+
+Cuentas de usuario de \\DESKTOP-N2DJEL2
+
+-------------------------------------------------------------------------------
+Administrador            DefaultAccount           Invitado                 
+w10limpio                WDAGUtilityAccount       
+Se ha completado el comando correctamente.
+
